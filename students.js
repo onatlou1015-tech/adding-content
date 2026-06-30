@@ -50,7 +50,7 @@ const studentData = [
   ["M3218", "https://M3235ScriptStudent.github.io/adding-content-m32/"],
   ["M3219", "https://M3219NovaNinja.github.io/adding-content-m32/"],
   ["M3220", "https://M3220SQLStudent.github.io/adding-content-m32/"],
-  ["M3221", "https://PhantomPush.github.io/adding-content-m32/"],
+  ["M3221", "https://M3221PhantomPush.github.io/adding-content-m32/"],
   ["M3222", "https://StudentStack.github.io/adding-content-m32/"],
   ["M3223", "https://M3223SwiftScholar.github.io/adding-content-m32/"],
   ["M3224", "https://M3224SyntaxScholar.github.io/adding-content-m32/"],
