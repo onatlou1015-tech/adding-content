@@ -44,7 +44,7 @@ const studentData = [
   ["M3212", "https://PixelPioneerM3212.github.io/portfolio32/"],
   ["M3213", "https://ProjectPanda.github.io/portfolio32/"],
   ["M3214", "https://M3214PyNewbie.github.io/portfolio32/"],
-  ["M3215", "https://ReactRookie.github.io/portfolio32/"],
+  ["M3215", "https://ReactRookie15.github.io/portfolio32/"],
   ["M3216", "https://M3216RogueRuntime.github.io/portfolio32/"],
   ["M3217", "https://m32rustramen.github.io/portfolio32/"],
   ["M3218", "https://M3235ScriptStudent.github.io/portfolio32/"],
