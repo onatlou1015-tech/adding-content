@@ -49,8 +49,8 @@ const studentData = [
   ["M3217", "https://m32rustramen.github.io/adding-content-m32/"],
   ["M3218", "https://M3235ScriptStudent.github.io/adding-content-m32/"],
   ["M3219", "https://M3219NovaNinja.github.io/adding-content-m32/"],
-  ["M3220", "https://M3220SQLStudent.github.io/adding-content-m32/"],
-  ["M3221", "https://M3221PhantomPush.github.io/adding-content-m32/"],
+  ["M3220", "https://m3220sqlstudent.github.io/adding-content-m32/"],
+  ["M3221", "https://M3221phantompush.github.io/adding-content-m32/"],
   ["M3222", "https://StudentStack.github.io/adding-content-m32/"],
   ["M3223", "https://M3223SwiftScholar.github.io/adding-content-m32/"],
   ["M3224", "https://M3224SyntaxScholar.github.io/adding-content-m32/"],
@@ -59,5 +59,5 @@ const studentData = [
   ["M3227", "https://M3227UnitoCode.github.io/adding-content-m32/"],
   ["M3228", "https://VortexDev28.github.io/adding-content-m32/"],
   ["M3229", "https://ReactRookie.github.io/adding-content-m32/"],
-  ["M3230", "https://ZenCoder.github.io/adding-content-m32/"]
+  ["M3230", "https://m3230ZenCoder.github.io/adding-content-m32/"]
 ];
