@@ -5,7 +5,7 @@ const studentData = [
   ["M3103", "https://AssignmentAce03.github.io/adding-content-m31/"],
   ["M3104", "https://BinaryBrain04.github.io/adding-content-m31/"],
   ["M3105", "https://BlazeBranch05.github.io/adding-content-m31/"],
-  ["M3106", "https://ByteSage6.github.io/adding-content-m31/"],
+  ["M3106", "https://blazingstuff.github.io/adding-content-m31/"],
   ["M3107", "https://CaffeineCoder07.github.io/adding-content-m31/"],
   ["M3108", "https://CampusCoder08.github.io/adding-content-m31/"],
   ["M3109", "https://CodeCurious09.github.io/adding-content-m31/"],
