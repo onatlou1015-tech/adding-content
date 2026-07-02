@@ -1,6 +1,6 @@
 // students.js - Student data file
 const studentData = [
-  ["M3101", "https://AlgorithmAce.github.io/adding-content-m31/"],
+  ["M3101", "https://AlgorithmAce01.github.io/adding-content-m31/"],
   ["M3102", "https://ArcaneByte02.github.io/adding-content-m31/"],
   ["M3103", "https://AssignmentAce03.github.io/adding-content-m31/"],
   ["M3104", "https://BinaryBrain04.github.io/adding-content-m31/"],
