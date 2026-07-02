@@ -29,7 +29,7 @@ const studentData = [
   ["M3127", "https://FreshmanDev27.github.io/adding-content-m31/"],
   ["M3128", "https://GitGuruWannabe.github.io/adding-content-m31/"],
   ["M3129", "https://GoGopherStudent29.github.io/adding-content-m31/"],
-  ["M3130", "https://GradCoder.github.io/adding-content-m31/"],
+  ["M3130", "https://GradCoder30.github.io/adding-content-m31/"],
   ["M3201", "https://M3201JavaJuggler.github.io/adding-content-m32/"],
   ["M3202", "https://M3203KernelKid.github.io/adding-content-m32/"],
   ["M3203", "https://M3203LabCoatCoder.github.io/adding-content-m32/"],
