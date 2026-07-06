@@ -17,7 +17,7 @@ const studentData = [
   ["M3115", "https://NewGenNotebook.github.io/adding-content-m31/"],
   ["M3116", "https://DeadlineDev16.github.io/adding-content-m31/"],
   ["M3117", "https://DebugStudent17.github.io/adding-content-m31/"],
-  ["M3118", "https://Promchaijandee-lang.github.io/adding-content-m31/"],
+  ["M3118", "https://DevDoodle18.github.io/adding-content-m31/"],
   ["M3119", "https://DjangoDreamer.github.io/adding-content-m31/"],
   ["M3120", "https://leoven20.github.io/adding-content-m31/"],
   ["M3121", "https://DormDev21.github.io/adding-content-m31/"],
